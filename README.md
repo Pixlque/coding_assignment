@@ -3,11 +3,11 @@
 Creating a todo list using Elixir Phoenix LiveView is a great way to explore real-time web development. Here's a coding assignment tailored for that:
 
 ### Task:
-Develop a real-time todo list web application using Elixir, Phoenix framework with LiveView for the backend, and HTML/CSS/JavaScript for the frontend.
+Develop a real-time todo list web application using Elixir, Phoenix framework for the backend and LiveView for the frontend.
 
 ### Requirements:
 
-#### Backend (Elixir, Phoenix and LiveView):
+#### Backend (Elixir and Phoenix):
 1. Set up a Phoenix LiveView project.
 2. Implement CRUD operations for tasks using LiveView.
 3. Use Ecto for database operations. You can use SQLite or PostgreSQL as the database.
@@ -15,7 +15,7 @@ Develop a real-time todo list web application using Elixir, Phoenix framework wi
 5. Implement validation for task creation (e.g., title should not be empty).
 6. Write tests for the backend using ExUnit.
 
-#### Frontend (HTML/CSS/JavaScript):
+#### Frontend (HTML/CSS/Liveview):
 1. Design a simple UI for the todo list.
 2. Use LiveView hooks or JavaScript to handle user interactions such as task creation, deletion, and completion.
 3. Display tasks dynamically without page reloads.
